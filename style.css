@@ -71,5 +71,60 @@ body {
     text-align: center;
     margin-left: 35%;
     font-family: 'Roboto', sans-serif;
+    padding-bottom: 30px;
 
+}
+
+.dev1 {
+
+    padding-left: 65px;
+}
+
+.dev2 {
+    width: 20%;
+    box-shadow: 1px 1px 1px 1px rgb(171, 199, 199);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    text-align: justify;
+    display: inline-block;
+
+}
+
+#color1 {
+    background: rgb(171, 199, 199);
+
+}
+
+#color2 {
+    background: rgb(231, 161, 210);
+}
+
+#color3 {
+    background-color: rgb(240, 241, 161);
+}
+
+.icon {
+    padding-top: 40px;
+    display: inline-block;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.dev3 {
+    width: 10%;
+    box-shadow: 1px 1px 1px 1px rgb(171, 199, 199);
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    text-align: justify;
+    display: inline-block;
 }
